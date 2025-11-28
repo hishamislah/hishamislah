@@ -99,8 +99,5 @@ I break things until they finally work 😄
 ---
 
 
-
----
-
 ## 📬 Let’s Connect!  
 💌 Feel free to reach out if you'd like to collaborate, hire, or discuss AI/ML engineering.
