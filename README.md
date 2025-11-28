@@ -64,18 +64,27 @@ With a foundation in **AI, Machine Learning, Cloud, and Full-Stack Development**
 ## Connect with me:
 
 <p align="left">
+
+  <!-- X / Twitter -->
   <a href="https://x.com/hisham_islah" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
+         alt="X" width="40" height="40"/>
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hisham-islah-494675220" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40"/>
   </a>
 
+  <!-- Email -->
   <a href="mailto:hishamislah2003@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=108814&format=png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png"
+         alt="Email" width="40" height="40"/>
   </a>
+
 </p>
+
 
 
 ### 👨‍💻 All of my projects are available at  
