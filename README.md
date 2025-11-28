@@ -61,13 +61,27 @@ With a foundation in **AI, Machine Learning, Cloud, and Full-Stack Development**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 How to reach me  
-**hishamislah2003@gmail.com**
+## Connect with me:
+
+<p align="left">
+  <a href="https://x.com/hisham_islah" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/hisham-islah-494675220" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <a href="mailto:hishamislah2003@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=108814&format=png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
 
 ### 👨‍💻 All of my projects are available at  
 **https://github.com/hishamislah**
 
-### 📄 Know about my experiences  
+### 📄 Experiences  
 **Resume available on request**
 
 ### ⚡ Fun fact  
